@@ -41,8 +41,9 @@ All permissions are **optional** and not required to use the basic features of t
 
 If you have any questions or concerns about your privacy, feel free to contact us:
 
-**Email**: [mkhglab@gmail.com]  
-**GitHub**: [github.com/mkhglab]
+**Email**: [mkhglab@gmail.com](mailto:mkhglab@gmail.com)
+
+**GitHub**: [github.com/MKHGLab](https://github.com/MKHGLab)
 
 ---
 
