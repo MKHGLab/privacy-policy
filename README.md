@@ -41,8 +41,8 @@ All permissions are **optional** and not required to use the basic features of t
 
 If you have any questions or concerns about your privacy, feel free to contact us:
 
-**Email**: [your-email@example.com]  
-**GitHub**: [github.com/your-username]
+**Email**: [mkhglab@gmail.com]  
+**GitHub**: [github.com/mkhglab]
 
 ---
 
